@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:carrot_on_a_stick": 20,
+      "minecraft:oak_sign": 2,
+      "minecraft:polished_andesite": 1,
+      "minecraft:mace": 1,
+      "minecraft:command_block": 1,
+      "minecraft:blaze_rod": 3,
+      "minecraft:leather": 30,
+      "minecraft:beef": 73
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 159713,
+      "minecraft:walk_one_cm": 311396,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 1588,
+      "minecraft:damage_dealt": 45,
+      "minecraft:play_time": 332852,
+      "minecraft:jump": 2464,
+      "minecraft:time_since_death": 159691,
+      "minecraft:drop": 1316,
+      "minecraft:sprint_one_cm": 216851,
+      "minecraft:fall_one_cm": 6506,
+      "minecraft:total_world_time": 332852,
+      "minecraft:fly_one_cm": 800032,
+      "minecraft:crouch_one_cm": 22150,
+      "minecraft:sneak_time": 6340,
+      "minecraft:deaths": 7
+    },
+    "minecraft:dropped": {
+      "minecraft:blaze_rod": 1462,
+      "minecraft:mace": 1,
+      "minecraft:carrot_on_a_stick": 36,
+      "minecraft:command_block": 1,
+      "minecraft:beef": 3,
+      "minecraft:oak_sign": 1
+    },
+    "minecraft:used": {
+      "minecraft:stripped_dark_oak_wood": 7,
+      "minecraft:spruce_fence": 2,
+      "minecraft:piston": 1,
+      "minecraft:redstone_block": 399,
+      "minecraft:chain_command_block": 16,
+      "minecraft:oak_log": 35,
+      "minecraft:polished_andesite": 87,
+      "minecraft:repeating_command_block": 15,
+      "minecraft:oak_sign": 6,
+      "minecraft:cow_spawn_egg": 1,
+      "minecraft:stripped_dark_oak_log": 14,
+      "minecraft:carrot_on_a_stick": 1570,
+      "minecraft:command_block": 114
+    },
+    "minecraft:killed": {
+      "minecraft:cow": 1
+    }
+  },
+  "DataVersion": 4671
+}

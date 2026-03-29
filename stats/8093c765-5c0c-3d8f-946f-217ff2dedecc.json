@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:carrot_on_a_stick": 5,
+      "minecraft:porkchop": 1,
+      "minecraft:polished_andesite": 2,
+      "minecraft:saddle": 1,
+      "minecraft:leather": 1,
+      "minecraft:chain_command_block": 1
+    },
+    "minecraft:custom": {
+      "minecraft:pig_one_cm": 1117,
+      "minecraft:time_since_rest": 25046,
+      "minecraft:walk_one_cm": 135135,
+      "minecraft:leave_game": 6,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 1220,
+      "minecraft:damage_dealt": 128,
+      "minecraft:play_time": 270435,
+      "minecraft:jump": 3941,
+      "minecraft:time_since_death": 25021,
+      "minecraft:drop": 82,
+      "minecraft:sprint_one_cm": 233498,
+      "minecraft:fall_one_cm": 7215,
+      "minecraft:total_world_time": 270435,
+      "minecraft:fly_one_cm": 1662742,
+      "minecraft:crouch_one_cm": 23592,
+      "minecraft:sneak_time": 9039,
+      "minecraft:deaths": 6
+    },
+    "minecraft:killed": {
+      "minecraft:pig": 1
+    },
+    "minecraft:used": {
+      "minecraft:polished_andesite": 318,
+      "minecraft:repeating_command_block": 14,
+      "minecraft:redstone_block": 3,
+      "minecraft:oak_sign": 4,
+      "minecraft:oak_button": 1,
+      "minecraft:shield": 1,
+      "minecraft:netherite_sword": 1,
+      "minecraft:snowball": 11,
+      "minecraft:chain_command_block": 53,
+      "minecraft:carrot_on_a_stick": 400,
+      "minecraft:command_block": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:blaze_rod": 73,
+      "minecraft:carrot_on_a_stick": 4,
+      "minecraft:chain_command_block": 1,
+      "minecraft:polished_andesite": 4
+    }
+  },
+  "DataVersion": 4671
+}

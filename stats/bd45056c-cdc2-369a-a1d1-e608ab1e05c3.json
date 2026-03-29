@@ -1,0 +1,61 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:carrot_on_a_stick": 9,
+      "minecraft:cow_spawn_egg": 2,
+      "minecraft:polished_andesite": 1,
+      "minecraft:repeating_command_block": 1,
+      "minecraft:command_block": 2,
+      "minecraft:blaze_rod": 1,
+      "minecraft:leather": 13,
+      "minecraft:beef": 25
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 168778,
+      "minecraft:walk_one_cm": 301206,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 1115,
+      "minecraft:damage_dealt": 480,
+      "minecraft:play_time": 272934,
+      "minecraft:jump": 1342,
+      "minecraft:time_since_death": 168754,
+      "minecraft:drop": 79,
+      "minecraft:sprint_one_cm": 115438,
+      "minecraft:fall_one_cm": 9928,
+      "minecraft:total_world_time": 272934,
+      "minecraft:fly_one_cm": 957378,
+      "minecraft:crouch_one_cm": 7051,
+      "minecraft:sneak_time": 2749,
+      "minecraft:deaths": 9
+    },
+    "minecraft:killed": {
+      "minecraft:cow": 5
+    },
+    "minecraft:used": {
+      "minecraft:polished_andesite": 53,
+      "minecraft:repeating_command_block": 8,
+      "minecraft:lever": 4,
+      "minecraft:oak_sign": 4,
+      "minecraft:wind_charge": 33,
+      "minecraft:netherite_sword": 6,
+      "minecraft:chain_command_block": 53,
+      "minecraft:cow_spawn_egg": 62,
+      "minecraft:carrot_on_a_stick": 1267,
+      "minecraft:command_block": 7,
+      "minecraft:glow_ink_sac": 1,
+      "minecraft:ender_pearl": 5
+    },
+    "minecraft:dropped": {
+      "minecraft:blaze_rod": 51,
+      "minecraft:carrot_on_a_stick": 20,
+      "minecraft:command_block": 1,
+      "minecraft:polished_andesite": 1,
+      "minecraft:wind_charge": 128,
+      "minecraft:ender_pearl": 16,
+      "minecraft:repeating_command_block": 1,
+      "minecraft:cow_spawn_egg": 2
+    }
+  },
+  "DataVersion": 4671
+}

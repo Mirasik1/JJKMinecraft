@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:leather": 7,
+      "minecraft:beef": 8
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 3675,
+      "minecraft:time_since_rest": 24102,
+      "minecraft:walk_one_cm": 24534,
+      "minecraft:total_world_time": 24140,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 34175,
+      "minecraft:crouch_one_cm": 172,
+      "minecraft:sneak_time": 148,
+      "minecraft:play_time": 24102,
+      "minecraft:jump": 33,
+      "minecraft:time_since_death": 24102
+    },
+    "minecraft:used": {
+      "minecraft:repeating_command_block": 6,
+      "minecraft:oak_sign": 1,
+      "minecraft:cow_spawn_egg": 9,
+      "minecraft:carrot_on_a_stick": 168
+    }
+  },
+  "DataVersion": 4671
+}

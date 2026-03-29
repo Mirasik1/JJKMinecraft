@@ -1,0 +1,73 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:pale_oak_planks": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3136,
+      "minecraft:walk_one_cm": 120064,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 12505,
+      "minecraft:play_time": 278419,
+      "minecraft:damage_dealt": 55,
+      "minecraft:jump": 1271,
+      "minecraft:time_since_death": 3114,
+      "minecraft:drop": 8,
+      "minecraft:sprint_one_cm": 72958,
+      "minecraft:fall_one_cm": 191937,
+      "minecraft:total_world_time": 278419,
+      "minecraft:fly_one_cm": 250567,
+      "minecraft:crouch_one_cm": 5157,
+      "minecraft:sneak_time": 1978,
+      "minecraft:deaths": 38
+    },
+    "minecraft:picked_up": {
+      "minecraft:wind_charge": 128,
+      "minecraft:carrot_on_a_stick": 5,
+      "minecraft:ender_pearl": 16,
+      "minecraft:pale_oak_planks": 1,
+      "minecraft:soul_lantern": 4,
+      "minecraft:stripped_pale_oak_wood": 1,
+      "minecraft:stripped_dark_oak_wood": 2,
+      "minecraft:beef": 1
+    },
+    "minecraft:mined": {
+      "minecraft:stripped_dark_oak_wood": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:stripped_pale_oak_wood": 1,
+      "minecraft:carrot_on_a_stick": 6,
+      "minecraft:pale_oak_planks": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_brick_wall": 3,
+      "minecraft:spruce_wood": 32,
+      "minecraft:stripped_dark_oak_wood": 65,
+      "minecraft:spruce_fence": 38,
+      "minecraft:white_terracotta": 1,
+      "minecraft:white_concrete": 1,
+      "minecraft:wind_charge": 128,
+      "minecraft:brown_terracotta": 2,
+      "minecraft:spruce_planks": 299,
+      "minecraft:stripped_spruce_wood": 23,
+      "minecraft:pale_oak_planks": 4,
+      "minecraft:waxed_oxidized_copper_lantern": 1,
+      "minecraft:polished_andesite": 2,
+      "minecraft:stone_bricks": 2,
+      "minecraft:crimson_fence": 1,
+      "minecraft:stripped_dark_oak_log": 54,
+      "minecraft:carrot_on_a_stick": 982,
+      "minecraft:black_terracotta": 23,
+      "minecraft:dark_oak_fence": 3,
+      "minecraft:soul_lantern": 10,
+      "minecraft:ender_pearl": 16,
+      "minecraft:stripped_pale_oak_wood": 69,
+      "minecraft:bow": 48,
+      "minecraft:chiseled_stone_bricks": 2
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:carrot_on_a_stick": 1,
+      "minecraft:polished_andesite": 14,
+      "minecraft:leather": 1,
+      "minecraft:beef": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1716,
+      "minecraft:walk_one_cm": 37513,
+      "minecraft:leave_game": 5,
+      "minecraft:damage_taken": 11397,
+      "minecraft:damage_dealt": 0,
+      "minecraft:play_time": 105135,
+      "minecraft:jump": 570,
+      "minecraft:time_since_death": 1680,
+      "minecraft:drop": 19,
+      "minecraft:sprint_one_cm": 41014,
+      "minecraft:fall_one_cm": 4254,
+      "minecraft:total_world_time": 105135,
+      "minecraft:fly_one_cm": 646320,
+      "minecraft:crouch_one_cm": 2411,
+      "minecraft:sneak_time": 1665,
+      "minecraft:deaths": 7
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 5
+    },
+    "minecraft:used": {
+      "minecraft:polished_andesite": 18,
+      "minecraft:spruce_planks": 1,
+      "minecraft:snowball": 15,
+      "minecraft:chain_command_block": 5,
+      "minecraft:carrot_on_a_stick": 339,
+      "minecraft:bow": 13
+    },
+    "minecraft:mined": {
+      "minecraft:fire": 6
+    },
+    "minecraft:dropped": {
+      "minecraft:polished_andesite": 19
+    }
+  },
+  "DataVersion": 4671
+}

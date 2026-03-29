@@ -1,41 +1,59 @@
 {
   "stats": {
-    "minecraft:dropped": {
+    "minecraft:picked_up": {
+      "minecraft:carrot_on_a_stick": 1,
+      "minecraft:oak_sign": 1,
+      "minecraft:cow_spawn_egg": 1,
+      "minecraft:polished_andesite": 2,
+      "minecraft:poppy": 2,
+      "minecraft:oak_boat": 1,
+      "minecraft:leather": 28,
       "minecraft:snowball": 16,
-      "minecraft:cow_spawn_egg": 1
+      "minecraft:iron_ingot": 10,
+      "minecraft:beef": 39
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 37084,
-      "minecraft:walk_one_cm": 67526,
-      "minecraft:leave_game": 2,
-      "minecraft:damage_taken": 240,
-      "minecraft:play_time": 37084,
-      "minecraft:jump": 182,
-      "minecraft:time_since_death": 37084,
-      "minecraft:drop": 17,
-      "minecraft:sprint_one_cm": 20611,
+      "minecraft:time_since_rest": 49516,
+      "minecraft:walk_one_cm": 129489,
+      "minecraft:leave_game": 8,
+      "minecraft:mob_kills": 3,
+      "minecraft:damage_taken": 520,
+      "minecraft:play_time": 173308,
+      "minecraft:jump": 686,
+      "minecraft:time_since_death": 49414,
+      "minecraft:drop": 22,
+      "minecraft:sprint_one_cm": 68887,
       "minecraft:fall_one_cm": 287,
-      "minecraft:total_world_time": 37169,
-      "minecraft:fly_one_cm": 87641,
-      "minecraft:crouch_one_cm": 529,
-      "minecraft:sneak_time": 236
+      "minecraft:total_world_time": 174621,
+      "minecraft:fly_one_cm": 697565,
+      "minecraft:crouch_one_cm": 2130,
+      "minecraft:sneak_time": 2562,
+      "minecraft:deaths": 5,
+      "minecraft:player_kills": 4
     },
-    "minecraft:picked_up": {
-      "minecraft:cow_spawn_egg": 1,
-      "minecraft:oak_boat": 1,
-      "minecraft:leather": 21,
-      "minecraft:snowball": 16,
-      "minecraft:iron_ingot": 5,
-      "minecraft:beef": 28
+    "minecraft:killed": {
+      "minecraft:cow": 3,
+      "minecraft:player": 4
     },
     "minecraft:used": {
-      "minecraft:repeating_command_block": 6,
+      "minecraft:polished_andesite": 102,
+      "minecraft:repeating_command_block": 24,
+      "minecraft:lever": 1,
       "minecraft:iron_golem_spawn_egg": 2,
       "minecraft:oak_sign": 2,
-      "minecraft:snowball": 67,
-      "minecraft:cow_spawn_egg": 19,
-      "minecraft:carrot_on_a_stick": 635,
-      "minecraft:oak_boat": 1
+      "minecraft:snowball": 115,
+      "minecraft:chain_command_block": 22,
+      "minecraft:cow_spawn_egg": 29,
+      "minecraft:carrot_on_a_stick": 716,
+      "minecraft:oak_boat": 1,
+      "minecraft:bow": 61
+    },
+    "minecraft:dropped": {
+      "minecraft:carrot_on_a_stick": 2,
+      "minecraft:polished_andesite": 2,
+      "minecraft:snowball": 16,
+      "minecraft:cow_spawn_egg": 1,
+      "minecraft:oak_sign": 1
     }
   },
   "DataVersion": 4671

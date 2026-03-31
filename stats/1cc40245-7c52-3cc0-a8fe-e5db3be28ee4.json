@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:beef": 11,
+      "minecraft:leather": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:leather": 5,
+      "minecraft:beef": 11
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2550,
+      "minecraft:walk_one_cm": 7138,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 600,
+      "minecraft:play_time": 4767,
+      "minecraft:damage_dealt": 20,
+      "minecraft:jump": 41,
+      "minecraft:time_since_death": 2525,
+      "minecraft:drop": 16,
+      "minecraft:sprint_one_cm": 4737,
+      "minecraft:fall_one_cm": 675,
+      "minecraft:total_world_time": 4767,
+      "minecraft:fly_one_cm": 19837,
+      "minecraft:deaths": 2
+    },
+    "minecraft:killed": {
+      "minecraft:cow": 1
+    },
+    "minecraft:used": {
+      "minecraft:carrot_on_a_stick": 2
+    }
+  },
+  "DataVersion": 4671
+}

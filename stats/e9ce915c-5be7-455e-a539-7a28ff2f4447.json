@@ -47,13 +47,9 @@
       "minecraft:gunpowder": 3,
       "minecraft:iron_golem_spawn_egg": 38
     },
-    "minecraft:killed": {
-      "minecraft:donkey": 2,
-      "minecraft:horse": 5,
-      "minecraft:panda": 18,
-      "minecraft:iron_golem": 55,
-      "minecraft:cow": 51,
-      "minecraft:player": 5
+    "minecraft:killed_by": {
+      "minecraft:player": 12,
+      "minecraft:iron_golem": 7
     },
     "minecraft:used": {
       "minecraft:netherrack": 98,
@@ -68,15 +64,16 @@
       "minecraft:iron_sword": 35,
       "minecraft:milk_bucket": 3,
       "minecraft:structure_block": 4,
-      "minecraft:repeating_command_block": 68,
+      "minecraft:repeating_command_block": 69,
       "minecraft:armadillo_spawn_egg": 1,
-      "minecraft:iron_golem_spawn_egg": 208,
+      "minecraft:iron_golem_spawn_egg": 213,
       "minecraft:oak_sign": 5,
       "minecraft:anvil": 8,
       "minecraft:command_block": 35,
-      "minecraft:carrot_on_a_stick": 1862,
+      "minecraft:carrot_on_a_stick": 1880,
       "minecraft:donkey_spawn_egg": 3,
       "minecraft:lever": 16,
+      "minecraft:oak_button": 1,
       "minecraft:redstone_block": 1,
       "minecraft:blue_ice": 78,
       "minecraft:mace": 22,
@@ -87,31 +84,35 @@
       "minecraft:bow": 498,
       "minecraft:armor_stand": 63
     },
-    "minecraft:killed_by": {
-      "minecraft:player": 12,
-      "minecraft:iron_golem": 7
+    "minecraft:killed": {
+      "minecraft:donkey": 2,
+      "minecraft:horse": 5,
+      "minecraft:panda": 18,
+      "minecraft:iron_golem": 55,
+      "minecraft:cow": 51,
+      "minecraft:player": 5
     },
     "minecraft:custom": {
       "minecraft:damage_resisted": 137,
-      "minecraft:time_since_rest": 332577,
-      "minecraft:walk_one_cm": 816808,
-      "minecraft:leave_game": 21,
+      "minecraft:time_since_rest": 354462,
+      "minecraft:walk_one_cm": 833406,
+      "minecraft:leave_game": 25,
       "minecraft:horse_one_cm": 305,
       "minecraft:damage_taken": 15235,
       "minecraft:mob_kills": 177,
-      "minecraft:play_time": 1084628,
+      "minecraft:play_time": 1106513,
       "minecraft:damage_dealt": 54699,
       "minecraft:damage_absorbed": 319,
-      "minecraft:jump": 3776,
-      "minecraft:time_since_death": 332551,
+      "minecraft:jump": 3793,
+      "minecraft:time_since_death": 354436,
       "minecraft:drop": 140,
-      "minecraft:sprint_one_cm": 345983,
+      "minecraft:sprint_one_cm": 348474,
       "minecraft:fall_one_cm": 11726,
-      "minecraft:total_world_time": 1086338,
-      "minecraft:fly_one_cm": 2725604,
+      "minecraft:total_world_time": 1110040,
+      "minecraft:fly_one_cm": 2733182,
       "minecraft:interact_with_anvil": 1,
       "minecraft:crouch_one_cm": 8914,
-      "minecraft:sneak_time": 11846,
+      "minecraft:sneak_time": 11953,
       "minecraft:deaths": 47,
       "minecraft:player_kills": 10
     }

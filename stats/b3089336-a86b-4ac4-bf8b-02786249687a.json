@@ -1,80 +1,98 @@
 {
   "stats": {
+    "minecraft:dropped": {
+      "minecraft:poppy": 3,
+      "minecraft:arrow": 64,
+      "minecraft:obsidian": 1,
+      "minecraft:iron_ingot": 9,
+      "minecraft:polished_andesite": 19,
+      "minecraft:bow": 1,
+      "minecraft:barrel": 128,
+      "minecraft:golden_apple": 4
+    },
     "minecraft:mined": {
       "minecraft:fire": 6
     },
-    "minecraft:dropped": {
-      "minecraft:poppy": 3,
-      "minecraft:iron_ingot": 9,
-      "minecraft:polished_andesite": 19,
-      "minecraft:golden_apple": 4
-    },
     "minecraft:picked_up": {
-      "minecraft:carrot_on_a_stick": 1,
       "minecraft:tipped_arrow": 11,
       "minecraft:polished_andesite": 15,
       "minecraft:poppy": 3,
-      "minecraft:sculk_catalyst": 1,
-      "minecraft:lever": 1,
+      "minecraft:lever": 2,
+      "minecraft:clay": 25,
       "minecraft:leather": 1,
       "minecraft:iron_ingot": 16,
-      "minecraft:golden_apple": 2,
-      "minecraft:beef": 3
+      "minecraft:oak_button": 1,
+      "minecraft:beef": 3,
+      "minecraft:carrot_on_a_stick": 24,
+      "minecraft:repeating_command_block": 10,
+      "minecraft:sculk_catalyst": 1,
+      "minecraft:pufferfish_bucket": 1,
+      "minecraft:golden_apple": 2
+    },
+    "minecraft:custom": {
+      "minecraft:damage_blocked_by_shield": 19742,
+      "minecraft:time_since_rest": 7467,
+      "minecraft:walk_one_cm": 298135,
+      "minecraft:leave_game": 9,
+      "minecraft:mob_kills": 5,
+      "minecraft:damage_taken": 55253,
+      "minecraft:play_time": 250039,
+      "minecraft:damage_dealt": 15040,
+      "minecraft:damage_absorbed": 6031,
+      "minecraft:jump": 4302,
+      "minecraft:time_since_death": 7439,
+      "minecraft:drop": 32,
+      "minecraft:open_barrel": 2,
+      "minecraft:sprint_one_cm": 364183,
+      "minecraft:fall_one_cm": 275972,
+      "minecraft:total_world_time": 250039,
+      "minecraft:fly_one_cm": 1960444,
+      "minecraft:crouch_one_cm": 6957,
+      "minecraft:sneak_time": 3457,
+      "minecraft:deaths": 69,
+      "minecraft:player_kills": 13
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 32,
+      "minecraft:iron_golem": 1
     },
     "minecraft:killed": {
       "minecraft:warden": 1,
       "minecraft:iron_golem": 2,
       "minecraft:player": 10
     },
-    "minecraft:broken": {
-      "minecraft:shield": 2
-    },
-    "minecraft:killed_by": {
-      "minecraft:player": 32,
-      "minecraft:iron_golem": 1
-    },
     "minecraft:used": {
       "minecraft:netherite_helmet": 1,
-      "minecraft:lever": 1,
-      "minecraft:wind_charge": 357,
-      "minecraft:spruce_planks": 1,
       "minecraft:shield": 131,
       "minecraft:netherite_sword": 349,
-      "minecraft:chain_command_block": 5,
+      "minecraft:chiseled_quartz_block": 7,
+      "minecraft:chain_command_block": 6,
+      "minecraft:quartz_pillar": 20,
+      "minecraft:quartz_bricks": 4,
       "minecraft:netherite_axe": 58,
-      "minecraft:mace": 87,
-      "minecraft:golden_apple": 129,
-      "minecraft:polished_andesite": 22,
+      "minecraft:repeating_command_block": 7,
       "minecraft:experience_bottle": 78,
+      "minecraft:oak_sign": 2,
       "minecraft:netherite_boots": 2,
       "minecraft:netherite_leggings": 1,
+      "minecraft:oak_hanging_sign": 1,
+      "minecraft:crossbow": 3,
+      "minecraft:carrot_on_a_stick": 857,
+      "minecraft:command_block": 2,
+      "minecraft:barrel": 2,
+      "minecraft:obsidian": 8,
+      "minecraft:lever": 1,
+      "minecraft:redstone_block": 1,
+      "minecraft:oak_button": 2,
+      "minecraft:wind_charge": 357,
+      "minecraft:spruce_planks": 1,
+      "minecraft:glow_ink_sac": 3,
+      "minecraft:mace": 87,
+      "minecraft:golden_apple": 129,
+      "minecraft:polished_andesite": 24,
       "minecraft:netherite_chestplate": 1,
       "minecraft:snowball": 15,
-      "minecraft:crossbow": 3,
-      "minecraft:carrot_on_a_stick": 531,
       "minecraft:bow": 65
-    },
-    "minecraft:custom": {
-      "minecraft:damage_blocked_by_shield": 19742,
-      "minecraft:time_since_rest": 269,
-      "minecraft:walk_one_cm": 254966,
-      "minecraft:leave_game": 7,
-      "minecraft:mob_kills": 5,
-      "minecraft:damage_taken": 53403,
-      "minecraft:play_time": 201639,
-      "minecraft:damage_dealt": 14950,
-      "minecraft:damage_absorbed": 6031,
-      "minecraft:jump": 3227,
-      "minecraft:time_since_death": 124,
-      "minecraft:drop": 27,
-      "minecraft:sprint_one_cm": 299199,
-      "minecraft:fall_one_cm": 267198,
-      "minecraft:total_world_time": 201639,
-      "minecraft:fly_one_cm": 1326346,
-      "minecraft:crouch_one_cm": 3595,
-      "minecraft:sneak_time": 2025,
-      "minecraft:deaths": 61,
-      "minecraft:player_kills": 13
     },
     "minecraft:crafted": {
       "minecraft:netherite_helmet": 1,
@@ -82,6 +100,9 @@
       "minecraft:netherite_leggings": 1,
       "minecraft:netherite_boots": 1,
       "minecraft:netherite_chestplate": 1
+    },
+    "minecraft:broken": {
+      "minecraft:shield": 2
     }
   },
   "DataVersion": 4671

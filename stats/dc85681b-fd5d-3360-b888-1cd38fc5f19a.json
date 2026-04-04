@@ -1,60 +1,70 @@
 {
   "stats": {
     "minecraft:dropped": {
-      "minecraft:black_dye": 1,
+      "minecraft:oak_button": 1,
+      "minecraft:black_dye": 2,
       "minecraft:clay": 25,
+      "minecraft:white_dye": 1,
+      "minecraft:mace": 1,
       "minecraft:carrot_on_a_stick": 35,
       "minecraft:polished_andesite": 1,
       "minecraft:pufferfish_bucket": 1,
       "minecraft:beef": 2,
-      "minecraft:clay_ball": 768
+      "minecraft:clay_ball": 771,
+      "minecraft:smooth_quartz": 1,
+      "minecraft:quartz_bricks": 2
     },
     "minecraft:mined": {
       "minecraft:fire": 6
     },
     "minecraft:picked_up": {
       "minecraft:carrot_on_a_stick": 5,
-      "minecraft:clay_ball": 323,
+      "minecraft:clay_ball": 325,
       "minecraft:black_dye": 1,
       "minecraft:bow": 1,
       "minecraft:arrow": 64,
+      "minecraft:quartz_bricks": 1,
+      "minecraft:oak_button": 1,
       "minecraft:beef": 2
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 7470,
-      "minecraft:walk_one_cm": 114710,
-      "minecraft:leave_game": 1,
-      "minecraft:damage_taken": 115045,
-      "minecraft:damage_dealt": 331,
-      "minecraft:play_time": 39257,
-      "minecraft:jump": 479,
-      "minecraft:time_since_death": 7443,
-      "minecraft:drop": 217,
+      "minecraft:time_since_rest": 245,
+      "minecraft:walk_one_cm": 191323,
+      "minecraft:leave_game": 2,
+      "minecraft:damage_taken": 118893,
+      "minecraft:play_time": 106558,
+      "minecraft:damage_dealt": 351,
+      "minecraft:jump": 631,
+      "minecraft:time_since_death": 0,
+      "minecraft:drop": 226,
       "minecraft:open_barrel": 1,
-      "minecraft:sprint_one_cm": 126900,
-      "minecraft:fall_one_cm": 33698,
-      "minecraft:total_world_time": 39257,
-      "minecraft:fly_one_cm": 251232,
-      "minecraft:crouch_one_cm": 1753,
-      "minecraft:sneak_time": 1816,
-      "minecraft:deaths": 27,
+      "minecraft:sprint_one_cm": 146716,
+      "minecraft:fall_one_cm": 37909,
+      "minecraft:total_world_time": 106558,
+      "minecraft:fly_one_cm": 369493,
+      "minecraft:crouch_one_cm": 5592,
+      "minecraft:sneak_time": 3099,
+      "minecraft:deaths": 37,
       "minecraft:player_kills": 1
     },
     "minecraft:killed_by": {
-      "minecraft:player": 3
+      "minecraft:player": 12
+    },
+    "minecraft:used": {
+      "minecraft:mooshroom_spawn_egg": 1,
+      "minecraft:polished_andesite": 1,
+      "minecraft:quartz_slab": 1,
+      "minecraft:smooth_quartz": 13,
+      "minecraft:oak_sign": 3,
+      "minecraft:black_stained_glass_pane": 65,
+      "minecraft:carrot_on_a_stick": 404,
+      "minecraft:quartz_bricks": 107,
+      "minecraft:quartz_stairs": 24,
+      "minecraft:bow": 25,
+      "minecraft:white_dye": 1
     },
     "minecraft:killed": {
       "minecraft:player": 1
-    },
-    "minecraft:used": {
-      "minecraft:polished_andesite": 1,
-      "minecraft:smooth_quartz": 4,
-      "minecraft:oak_sign": 3,
-      "minecraft:black_stained_glass_pane": 40,
-      "minecraft:carrot_on_a_stick": 380,
-      "minecraft:quartz_bricks": 19,
-      "minecraft:bow": 25,
-      "minecraft:white_dye": 1
     }
   },
   "DataVersion": 4671

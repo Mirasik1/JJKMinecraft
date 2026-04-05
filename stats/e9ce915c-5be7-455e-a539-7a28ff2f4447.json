@@ -2,11 +2,12 @@
   "stats": {
     "minecraft:dropped": {
       "minecraft:chain_command_block": 4,
-      "minecraft:carrot_on_a_stick": 7,
+      "minecraft:carrot_on_a_stick": 8,
       "minecraft:name_tag": 17,
       "minecraft:bow": 3,
       "minecraft:anvil": 1,
       "minecraft:oak_sign": 7,
+      "minecraft:clay_ball": 14,
       "minecraft:poppy": 2,
       "minecraft:arrow": 57,
       "minecraft:iron_ingot": 26,
@@ -28,7 +29,8 @@
       "minecraft:lever": 16,
       "minecraft:command_block": 1,
       "minecraft:leather": 80,
-      "minecraft:carrot_on_a_stick": 5,
+      "minecraft:carrot_on_a_stick": 6,
+      "minecraft:clay_ball": 14,
       "minecraft:chain_command_block": 3,
       "minecraft:iron_golem_spawn_egg": 103,
       "minecraft:anvil": 1,
@@ -48,34 +50,13 @@
       "minecraft:barrel": 128,
       "minecraft:gunpowder": 3
     },
-    "minecraft:custom": {
-      "minecraft:damage_resisted": 137,
-      "minecraft:time_since_rest": 18620,
-      "minecraft:walk_one_cm": 1435282,
-      "minecraft:leave_game": 35,
-      "minecraft:horse_one_cm": 305,
-      "minecraft:damage_taken": 57414,
-      "minecraft:mob_kills": 244,
-      "minecraft:play_time": 1796427,
-      "minecraft:damage_dealt": 64493,
-      "minecraft:damage_absorbed": 319,
-      "minecraft:jump": 6096,
-      "minecraft:time_since_death": 18620,
-      "minecraft:drop": 150,
-      "minecraft:open_barrel": 1,
-      "minecraft:sprint_one_cm": 596098,
-      "minecraft:fall_one_cm": 20663,
-      "minecraft:total_world_time": 1803271,
-      "minecraft:fly_one_cm": 4524537,
-      "minecraft:interact_with_anvil": 1,
-      "minecraft:crouch_one_cm": 15305,
-      "minecraft:sneak_time": 19931,
-      "minecraft:deaths": 63,
-      "minecraft:player_kills": 13
-    },
-    "minecraft:killed_by": {
-      "minecraft:player": 13,
-      "minecraft:iron_golem": 7
+    "minecraft:killed": {
+      "minecraft:donkey": 2,
+      "minecraft:horse": 5,
+      "minecraft:panda": 18,
+      "minecraft:iron_golem": 105,
+      "minecraft:cow": 51,
+      "minecraft:player": 7
     },
     "minecraft:used": {
       "minecraft:netherrack": 98,
@@ -97,7 +78,7 @@
       "minecraft:oak_sign": 9,
       "minecraft:anvil": 8,
       "minecraft:command_block": 41,
-      "minecraft:carrot_on_a_stick": 3790,
+      "minecraft:carrot_on_a_stick": 4208,
       "minecraft:obsidian": 38,
       "minecraft:donkey_spawn_egg": 3,
       "minecraft:red_wool": 18,
@@ -120,13 +101,34 @@
       "minecraft:bow": 530,
       "minecraft:armor_stand": 63
     },
-    "minecraft:killed": {
-      "minecraft:donkey": 2,
-      "minecraft:horse": 5,
-      "minecraft:panda": 18,
-      "minecraft:iron_golem": 105,
-      "minecraft:cow": 51,
-      "minecraft:player": 7
+    "minecraft:killed_by": {
+      "minecraft:player": 13,
+      "minecraft:iron_golem": 7
+    },
+    "minecraft:custom": {
+      "minecraft:damage_resisted": 137,
+      "minecraft:time_since_rest": 37821,
+      "minecraft:walk_one_cm": 1460076,
+      "minecraft:leave_game": 36,
+      "minecraft:horse_one_cm": 305,
+      "minecraft:damage_taken": 57414,
+      "minecraft:mob_kills": 244,
+      "minecraft:play_time": 1815628,
+      "minecraft:damage_dealt": 64493,
+      "minecraft:damage_absorbed": 319,
+      "minecraft:jump": 6174,
+      "minecraft:time_since_death": 37821,
+      "minecraft:drop": 165,
+      "minecraft:open_barrel": 1,
+      "minecraft:sprint_one_cm": 603611,
+      "minecraft:fall_one_cm": 20663,
+      "minecraft:total_world_time": 1822494,
+      "minecraft:fly_one_cm": 4625535,
+      "minecraft:interact_with_anvil": 1,
+      "minecraft:crouch_one_cm": 15405,
+      "minecraft:sneak_time": 20030,
+      "minecraft:deaths": 63,
+      "minecraft:player_kills": 13
     }
   },
   "DataVersion": 4671
